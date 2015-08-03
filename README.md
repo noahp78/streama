@@ -11,7 +11,6 @@ Ever had a huge bookshelf full of shows and movies? Ever wanted to digitalize th
   - [Settings](#settings)
   - [The Dashboard](#the-dashboard)
   - [The Player](#the-player)
-    - [The Episode Browser](#the-episode-browser)
   - [The Admin-Panel](#the-admin-panel)
   - [The Users](#the-users) 
 - [Technical Details](#technical-details)
@@ -97,7 +96,7 @@ At this point I would like to mention that this project is still very much a wor
 Btw, if you have any issues getting started, let me know. I will gladly help out and then improve the docs accordingly. 
 
 # Known Issues
-- There is no video-conversion currently, meaning you are reliant upon html5 browser compatibilities. I will implement server-side conversion soon which will enable this functionality.
+- There is no video-conversion currently, meaning you are reliant upon html5 browser compatibilities. I will implement server-side conversion soon which will enable this functionality. See this issue: https://github.com/dularion/streama/issues/17
 
 
 # License
